@@ -1,3 +1,7 @@
+
+
+![Screenshot](./image/Screenshot%202026-06-13%20020946.png)
+
 # 🛍️ Recommender System
 
 An end-to-end Machine Learning based Recommendation System built using Python. This project implements multiple recommendation techniques including Popularity-Based Filtering, Content-Based Filtering, Collaborative Filtering, Matrix Factorization (SVD), Neural Collaborative Filtering (NCF), and Hybrid Recommendation Models. The system is designed using the Amazon Product Dataset and provides personalized product recommendations through an interactive Streamlit web application.
